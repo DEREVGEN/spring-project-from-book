@@ -1,0 +1,4 @@
+# Project exclude paths
+/first-webservice2-master/build/
+/first-webservice2-master/build/classes/java/main/
+/first-webservice2-master/build/classes/java/test/
